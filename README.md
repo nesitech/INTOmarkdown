@@ -41,5 +41,5 @@ Hópfélaginn minn náði ekki að koma breytingunum inn þó eftir mikla vinna 
 
 ## 4. Uppsettur hugbúnaður
 
-Hannes: Ég nota t.d. vlc player sem notar GNU General Public License, einnig nota ég Cyberduck (FTP client) sem einnig notar
+Við notum báðir t.d. vlc player sem notar GNU General Public License, og Cyberduck (FTP client) sem einnig notar
 GNU General Public License. Bæði forritin eru s.s. free software en þú mátt ekki eigna þér þau og breyta þeim og gefa aftur út.
