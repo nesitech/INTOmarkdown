@@ -37,7 +37,7 @@ Keyrði skipanirnar og innstallaði báðum forritinum, gekk bara mjög  vel (He
 Vinnan sjálf gekk mjög hægt og erfilega, þá sérstaklega vegna internetstengingarinnar. Annars gat ég framkvæmd allar skipanir
 og gekk allt upp mér best vitandi.
 Hópfélaginn minn náði ekki að koma breytingunum inn þó eftir mikla vinna og mikið púður.
-<a href="https://github.com/nesitech/INTOPrufa" title="INTOPrufa">NesiTech</a>
+<a href="https://github.com/nesitech/INTOPrufa" title="INTOPrufa">INTOPrufa/NesiTech</a>
 
 ## 4. Uppsettur hugbúnaður
 
