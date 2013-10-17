@@ -22,4 +22,23 @@ Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum n�
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+Hannes Örn Brynjarsson og Ísak Jakob Hafþórsson
+
+## 1. Linux uppsetning
+
+Við notuðum virtualbox til að setja inn ubuntu image og gekk það bara mjög vel (Hef gert það áður þannig að ekkert vesen)
+
+## 2. Uppsetning á vim && git
+
+Keyrði skipanirnar og innstallaði báðum forritinum, gekk bara mjög  vel (Hef líka reynslu af þessu)
+
+## 3. Unnið með Git (1. hluti)
+
+Vinnan sjálf gekk mjög hægt og erfilega, þá sérstaklega vegna internetstengingarinnar. Annars gat ég framkvæmd allar skipanir
+og gekk allt upp mér best vitandi.
+Hópfélaginn minn náði ekki að koma breytingunum inn þó eftir mikla vinna og mikið púður.
+
+## 4. Uppsettur hugbúnaður
+
+Hannes: Ég nota t.d. vlc player sem notar GNU General Public License, einnig nota ég Cyberduck (FTP client) sem einnig notar
+GNU General Public License. Bæði forritin eru s.s. free software en þú mátt ekki eigna þér þau og breyta þeim og gefa aftur út.
